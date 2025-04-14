@@ -796,7 +796,7 @@ const MyComponent = () => {
                         </div>
 
                     </div>
-                    <div className={styles.brandText}><Link href="https://www.kredict.com"><a target="_blank" rel="noreferrer" id="host">Powered by KREDICT</a></Link></div>
+                    <div className={styles.brandText}><Link href="#"><a target="_blank" rel="noreferrer" id="host">Powered by ECHODEX</a></Link></div>
 
                 </div>
 
@@ -818,7 +818,7 @@ const MyComponent = () => {
                 </div>
             </section>
             <div className={styles.contractNoteSection}>
-                <p className={styles.contractNote}>You can buy KDT also by sending BNB directly to Presale Contract</p>
+                <p className={styles.contractNote}>You can buy EDEX also by sending BNB directly to Presale Contract</p>
                 <p id="contract-address" className={styles.contractAddress}>{tokenData.presaleContract}</p><br/>
                 <a className={styles.actionBtnCopy} onClick={copyAddress}>Copy Address</a>
             </div>
