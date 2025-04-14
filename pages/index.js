@@ -9,17 +9,17 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>KREDICT - Presale Sample</title>
+        <title>ECHODEX - Presale Sample</title>
         <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css"></link>
-        <meta name="description" content="GKredict is a decentralized launchpad that
+        <meta name="description" content="ECHODEX is a decentralized launchpad that
          allows users to launch their token and create their initial 
          token sale with staking benefits to their holders and they don't 
          require any Coding Knowledge For this." />
-        <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png" />
-        <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png" />
-        <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/echodex.jpg" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/echodex.jpg" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/echodex.jpg" />
         <link rel="manifest" href="/icons/site.webmanifest" />
-        <link rel="icon" href="/icons/favicon.ico" />
+        <link rel="icon" href="/echodex.jpg" />
       </Head>
       <Navbar />
       <Cover />
@@ -63,14 +63,14 @@ export default function Home() {
           <img src="/about.gif" alt="image" />
         </div>
         <div className={styles.aboutTextSection}>
-          <h3 className={styles.aboutHeader}>Meet Future KREDICT</h3>
+          <h3 className={styles.aboutHeader}>Meet Future ECHODEX</h3>
           <p className={styles.aboutText}>
-            We will strive to make KREDICTChain as one of the prominent
+            We will strive to make ECHODEXChain as one of the prominent
             way Blockchain will be used in different areas of business
             and economy as well as social welfare and other major areas
             of technology
           </p>
-          <p className={styles.aboutText}><i className="las la-arrow-right"></i>KREDICTChain Blockchain</p>
+          <p className={styles.aboutText}><i className="las la-arrow-right"></i>ECHODEXChain Blockchain</p>
           <p className={styles.aboutText}><i className="las la-arrow-right"></i>Multicurrency Wallet</p>
           <p className={styles.aboutText}><i className="las la-arrow-right"></i>Defi Exchange</p>
         </div>
@@ -79,11 +79,11 @@ export default function Home() {
         <h3>Future Products</h3>
         <div className={styles.futureItemBlock}>
           <ul className={styles.futureColumn}>
-            <li><i className="las la-star"></i>KREDICTChain Blockchain</li>
+            <li><i className="las la-star"></i>ECHODEXChain Blockchain</li>
             <li><i className="las la-star"></i>Multicurrency Wallet</li>
             <li><i className="las la-star"></i>Defi Exchange</li>
             <li><i className="las la-star"></i>MultiVerse and MetaVerse</li>
-            <li><i className="las la-star"></i>Audit Platform for KREDICTChain</li>
+            <li><i className="las la-star"></i>Audit Platform for ECHODEXChain</li>
             <li><i className="las la-star"></i>NFT Marketplace</li>
           </ul>
           <ul className={styles.futureColumn}>
@@ -215,7 +215,7 @@ export default function Home() {
         <div className={styles.tokenomicsDetailsHolder}>
           <div className={styles.tokenomicsColumn}>
             <h4 className={styles.tokenDetailHead}>Token Name</h4>
-            <p className={styles.tokenDetailText}>KREDICT</p>
+            <p className={styles.tokenDetailText}>ECHODEX</p>
             <h4 className={styles.tokenDetailHead}>Total Supply</h4>
             <p className={styles.tokenDetailText}>1,000,000,000,000,000</p>
             <h4 className={styles.tokenDetailHead}>Pre Sale Start Date</h4>
@@ -224,9 +224,9 @@ export default function Home() {
             <p className={styles.tokenDetailText}>BNB</p>
           </div>
           <div className={styles.tokenomicsColumn}>
-            <h4 className={styles.tokenDetailHead}>ICO Pre- Sale KREDICT Supply Launch</h4>
+            <h4 className={styles.tokenDetailHead}>ICO Pre- Sale ECHODEX Supply Launch</h4>
             <p className={styles.tokenDetailText}>200,000,000,000,000</p>
-            <h4 className={styles.tokenDetailHead}>ICO Supply OF KREDICT launch</h4>
+            <h4 className={styles.tokenDetailHead}>ICO Supply OF ECHODEX launch</h4>
             <p className={styles.tokenDetailText}>200,000,000,000,000</p>
             <h4 className={styles.tokenDetailHead}>Soft cap</h4>
             <p className={styles.tokenDetailText}>4000 BNB</p>
@@ -235,13 +235,13 @@ export default function Home() {
           </div>
           <div className={styles.tokenomicsColumn}>
             <h4 className={styles.tokenDetailHead}>Pre Sale - 1st Phase</h4>
-            <p className={styles.tokenDetailText}>1 BNB = 2,600,000,000 KDT</p>
+            <p className={styles.tokenDetailText}>1 BNB = 2,600,000,000 EDEX</p>
             <h4 className={styles.tokenDetailHead}>Pre Sale - 2nd Phase</h4>
-            <p className={styles.tokenDetailText}>1 BNB = 1,300,000,000 KDT</p>
+            <p className={styles.tokenDetailText}>1 BNB = 1,300,000,000 EDEX</p>
             <h4 className={styles.tokenDetailHead}>Pre Sale - 3rd Phase</h4>
-            <p className={styles.tokenDetailText}>1 BNB = 650,000,000 KDT</p>
+            <p className={styles.tokenDetailText}>1 BNB = 650,000,000 EDEX</p>
             <h4 className={styles.tokenDetailHead}>Pre Sale- 4th phase</h4>
-            <p className={styles.tokenDetailText}>	1 BNB = 325,000,000 KDT</p>
+            <p className={styles.tokenDetailText}>	1 BNB = 325,000,000 EDEX</p>
           </div>
         </div>
         <p><small><i>*All above Data is only for Sample</i></small></p>
@@ -271,7 +271,7 @@ export default function Home() {
             <div className={styles.content}>
               <p>
                 <ul>
-                  <li>Ideation of KREDICT Blockhain and KREDICT
+                  <li>Ideation of ECHODEX Blockhain and ECHODEX
                   </li>
                   <li>White paper, Future Goals and Road Map preparation.
                   </li>
@@ -287,14 +287,14 @@ export default function Home() {
             <div className={styles.content}>
               <p>
                 <ul>
-                  <li>ICO website Development For KREDICT
+                  <li>ICO website Development For ECHODEX
                   </li>
                   <li>Contract Deployment
                   </li>
                   <li>ICO website Launch
                   </li>
                   <li>
-                    Pre-Sale of KREDICT Stage-1
+                    Pre-Sale of ECHODEX Stage-1
                   </li>
                   <li>
                     Promotion through Partnerships and Affliates and Initial Buyers
@@ -312,7 +312,7 @@ export default function Home() {
             <div className={styles.content}>
               <p>
                 <ul>
-                  <li>Start KREDICT Chain Development
+                  <li>Start ECHODEX Chain Development
                   </li>
                   <li>Pre-Sale Stage 2
                   </li>
@@ -336,7 +336,7 @@ export default function Home() {
             <div className={styles.content}>
               <p>
                 <ul>
-                  <li>KREDICT Launch to general Public
+                  <li>ECHODEX Launch to general Public
                   </li>
                   <li>dApp Wallet Launch
                   </li>
@@ -385,7 +385,7 @@ export default function Home() {
             <div className={styles.content}>
               <p>
                 <ul>
-                  <li>KREDICT Exchange Beta Version Release
+                  <li>ECHODEX Exchange Beta Version Release
                   </li>
                   <li>Exchange and Wallet and Mobile Version Development
                   </li>
@@ -619,7 +619,7 @@ export default function Home() {
           </div>
         </div>
         <div className={styles.whyImageSection}>
-          <img src="/kredict-k.png" alt="KREDICT icon" />
+          <img src="/ECHODEX-k.png" alt="ECHODEX icon" />
         </div>
       </section>
       {/* why-section-- */}
@@ -660,7 +660,7 @@ export default function Home() {
           <div className={styles.whitepaperTextSection}>
             <h2 className={styles.whitepaperHead}>Whitepaper</h2>
             <p className={styles.whitepaperText}>
-              Total of 1 quadrillion (1,000,000,000,000,000) KREDICTs will be minted through
+              Total of 1 quadrillion (1,000,000,000,000,000) ECHODEXs will be minted through
               Smart contract and deployed through Binance Smart Chain . We will be selling 20% of the
               tokens in presale which will be done in 4 phases which will run max for 92 days . 1st
               presale for 45 days and rest 3 pre-sales for 15 days each. If the Pre-Sale phases goals
@@ -685,10 +685,10 @@ export default function Home() {
         <div className={styles.contactSocialSide}>
           <h3 className={styles.contactHeader}>Contact Us</h3>
           <div className={styles.contactSocialBlock}>
-            <Link href="mailto:support@kredict.com"><a target="_blank" rel="noreferrer"><i className="las la-envelope"></i>support@kredict.com</a></Link>
-            <Link href="https://t.me/kredict"><a target="_blank" rel="noreferrer"><i className="lab la-telegram"></i>Telegram</a></Link>
-            <Link href="https://twitter.com/kredictofficial"><a target="_blank" rel="noreferrer"><i className="lab la-twitter-square"></i>Twitter</a></Link>
-            <Link href="https://www.instagram.com/kredict_official/"><a target="_blank" rel="noreferrer"><i className="lab la-instagram"></i>Instagram</a></Link>
+            <Link href="mailto:support@echodexproject.com"><a target="_blank" rel="noreferrer"><i className="las la-envelope"></i>support@echodexproject.com</a></Link>
+            <Link href="https://t.me/ECHODEX"><a target="_blank" rel="noreferrer"><i className="lab la-telegram"></i>Telegram</a></Link>
+            <Link href="https://twitter.com/ECHODEXofficial"><a target="_blank" rel="noreferrer"><i className="lab la-twitter-square"></i>Twitter</a></Link>
+            <Link href="https://www.instagram.com/ECHODEX_official/"><a target="_blank" rel="noreferrer"><i className="lab la-instagram"></i>Instagram</a></Link>
             <Link href="https://www.youtube.com/channel/UCCP3Ce_X8U-_lkvC9xREGQA"><a target="_blank" rel="noreferrer"><i className="lab la-youtube"></i>YouTube</a></Link>
           </div>
         </div>
@@ -710,7 +710,7 @@ export default function Home() {
           <p className={styles.brandText}>Designed with</p>
           <p className={styles.heart}><i className="las la-heart"></i></p>
           <p className={styles.brandText}>by</p>
-          <p className={styles.brandText}><Link href="https://www.kredict.com"><a target="_blank" rel="noreferrer">KREDICT</a></Link></p>
+          <p className={styles.brandText}><Link href="https://www.ECHODEX.com"><a target="_blank" rel="noreferrer">ECHODEX</a></Link></p>
         </div>
       </section>
       {/* footer--------- */}

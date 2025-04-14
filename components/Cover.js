@@ -804,9 +804,9 @@ const MyComponent = () => {
 
                 <div className={styles.textSection}>
 
-                    <h2 className={styles.header}>KREDICT ICO</h2>
+                    <h2 className={styles.header}>ECHODEX ICO</h2>
                     <h4 className={styles.tag}>
-                    Kredict is a decentralized launchpad that allows users to launch 
+                    EchoDex is a decentralized launchpad that allows users to launch 
                     their token and create their initial token sale with staking benefits 
                     to their holders and they don&apos;t require any Coding Knowledge For this. 
                     </h4>

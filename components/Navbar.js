@@ -12,7 +12,7 @@ function Navbar() {
                     <div className={styles.logoSection}>
                         <Link href=""><a>
                             {/* <h1 className={styles.logoText}>Globus Coin</h1> */}
-                            <img src="/kredict-white.png" alt="Globus Logo" className={styles.logoImage} />
+                            <img src="/echodex.jpg" alt="Globus Logo" className={styles.logoImage} />
                         </a></Link>
                     </div>
                     <div className={styles.menuSection}>
