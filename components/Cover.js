@@ -17,8 +17,8 @@ const MyComponent = () => {
 
     let tokenData = {
         "id": "1",
-        "token": "0x5233F7216082d286Fa9caa39d603CC45118AC25c",
-        "presaleContract": "0x5233F7216082d286Fa9caa39d603CC45118AC25c",
+        "token": "0x62AD35EbBBC4BE1cC025Da4265D0731cA933B2CC",
+        "presaleContract": "0x62AD35EbBBC4BE1cC025Da4265D0731cA933B2CC",
         "contractABI": "https://basescan.org/token/0x62ad35ebbbc4be1cc025da4265d0731ca933b2cc?a=0x5233f7216082d286fa9caa39d603cc45118ac25c#code",
         "tokenIconURL": "/echodex.jpg",
         "tokenName": "ECHODEX",
