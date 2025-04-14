@@ -217,31 +217,31 @@ export default function Home() {
             <h4 className={styles.tokenDetailHead}>Token Name</h4>
             <p className={styles.tokenDetailText}>ECHODEX</p>
             <h4 className={styles.tokenDetailHead}>Total Supply</h4>
-            <p className={styles.tokenDetailText}>1,000,000,000,000,000</p>
+            <p className={styles.tokenDetailText}>10,000,000</p>
             <h4 className={styles.tokenDetailHead}>Pre Sale Start Date</h4>
-            <p className={styles.tokenDetailText}>1st Oct 2022</p>
+            <p className={styles.tokenDetailText}>1st April 2025</p>
             <h4 className={styles.tokenDetailHead}>Currencies Accepted</h4>
             <p className={styles.tokenDetailText}>BNB</p>
           </div>
           <div className={styles.tokenomicsColumn}>
             <h4 className={styles.tokenDetailHead}>ICO Pre- Sale ECHODEX Supply Launch</h4>
-            <p className={styles.tokenDetailText}>200,000,000,000,000</p>
+            <p className={styles.tokenDetailText}>4,600,000</p>
             <h4 className={styles.tokenDetailHead}>ICO Supply OF ECHODEX launch</h4>
-            <p className={styles.tokenDetailText}>200,000,000,000,000</p>
+            <p className={styles.tokenDetailText}>3,500,000</p>
             <h4 className={styles.tokenDetailHead}>Soft cap</h4>
             <p className={styles.tokenDetailText}>4000 BNB</p>
             <h4 className={styles.tokenDetailHead}>ICO Start Date</h4>
-            <p className={styles.tokenDetailText}>1st of Jan 2023</p>
+            <p className={styles.tokenDetailText}>31st of June 2025</p>
           </div>
           <div className={styles.tokenomicsColumn}>
             <h4 className={styles.tokenDetailHead}>Pre Sale - 1st Phase</h4>
-            <p className={styles.tokenDetailText}>1 BNB = 2,600,000,000 EDEX</p>
+            <p className={styles.tokenDetailText}>1 BNB = 2,600 EDEX</p>
             <h4 className={styles.tokenDetailHead}>Pre Sale - 2nd Phase</h4>
-            <p className={styles.tokenDetailText}>1 BNB = 1,300,000,000 EDEX</p>
+            <p className={styles.tokenDetailText}>1 BNB = 1,300 EDEX</p>
             <h4 className={styles.tokenDetailHead}>Pre Sale - 3rd Phase</h4>
-            <p className={styles.tokenDetailText}>1 BNB = 650,000,000 EDEX</p>
+            <p className={styles.tokenDetailText}>1 BNB = 650 EDEX</p>
             <h4 className={styles.tokenDetailHead}>Pre Sale- 4th phase</h4>
-            <p className={styles.tokenDetailText}>	1 BNB = 325,000,000 EDEX</p>
+            <p className={styles.tokenDetailText}>	1 BNB = 325 EDEX</p>
           </div>
         </div>
         <p><small><i>*All above Data is only for Sample</i></small></p>
