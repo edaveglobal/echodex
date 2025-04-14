@@ -688,8 +688,8 @@ export default function Home() {
             <Link href="mailto:support@echodexproject.com"><a target="_blank" rel="noreferrer"><i className="las la-envelope"></i>support@echodexproject.com</a></Link>
             <Link href="https://t.me/ECHODEX"><a target="_blank" rel="noreferrer"><i className="lab la-telegram"></i>Telegram</a></Link>
             <Link href="https://twitter.com/ECHODEXofficial"><a target="_blank" rel="noreferrer"><i className="lab la-twitter-square"></i>Twitter</a></Link>
-            <Link href="https://www.instagram.com/ECHODEX_official/"><a target="_blank" rel="noreferrer"><i className="lab la-instagram"></i>Instagram</a></Link>
-            <Link href="https://www.youtube.com/channel/UCCP3Ce_X8U-_lkvC9xREGQA"><a target="_blank" rel="noreferrer"><i className="lab la-youtube"></i>YouTube</a></Link>
+            <Link href="#"><a target="_blank" rel="noreferrer"><i className="lab la-instagram"></i>Instagram</a></Link>
+            <Link href="#"><a target="_blank" rel="noreferrer"><i className="lab la-youtube"></i>YouTube</a></Link>
           </div>
         </div>
         <div className={styles.contactFormSide}>
