@@ -30,26 +30,30 @@ export default function Home() {
 
           <div className={styles.featureCard}>
             <p className={styles.featureIcon}><i className="las la-cube"></i></p>
-            <h4 className={styles.featureHead}>DECENTRALISED SYSTEM</h4>
+            <h4 className={styles.featureHead}>GameFi Solution</h4>
             <p className={styles.featureText}>
-              A technical failure can paralyze all affiliate networks on a centralized platfotrm,
-              until the cause is detected and rectified the system.
+             Play--to-earn (p2e) models for user engagement and rewards
             </p>
           </div>
           <div className={styles.featureCard}>
             <p className={styles.featureIcon}><i className="las la-shield-alt"></i></p>
-            <h4 className={styles.featureHead}>BANKS PAYMENT SYSTEMS</h4>
+            <h4 className={styles.featureHead}>DeFi Solution</h4>
             <p className={styles.featureText}>
-              Up to 45% of a merchant&apos;s budget is spent on commissions charged by a number
-              of brokers, including banks, payment systems.
+              Robust yield farming and staking mechanisms for passive income
             </p>
           </div>
           <div className={styles.featureCard}>
             <p className={styles.featureIcon}><i className="las la-project-diagram"></i></p>
-            <h4 className={styles.featureHead}>CPA NETWORKS</h4>
+            <h4 className={styles.featureHead}>Ecosystem Benefits</h4>
             <p className={styles.featureText}>
-              Affiliate networks have to pay for using existing platforms on a monthly basis or
-              spend money on developing proprietary platforms
+            Sustainable returns for long-term token holders
+            </p>
+          </div>
+          <div className={styles.featureCard}>
+            <p className={styles.featureIcon}><i className="las la-project-diagram"></i></p>
+            <h4 className={styles.featureHead}>24/7 customer support and community resources</h4>
+            <p className={styles.featureText}>
+            Opportunities for social interaction and community engagement
             </p>
           </div>
 
@@ -63,16 +67,13 @@ export default function Home() {
           <img src="/about.gif" alt="image" />
         </div>
         <div className={styles.aboutTextSection}>
-          <h3 className={styles.aboutHeader}>Meet Future ECHODEX</h3>
+          <h3 className={styles.aboutHeader}>Join the echodex community today and experience the future of gamefi and defi!</h3>
           <p className={styles.aboutText}>
-            We will strive to make ECHODEXChain as one of the prominent
-            way Blockchain will be used in different areas of business
-            and economy as well as social welfare and other major areas
-            of technology
+          "unlock a new world of possibilities with echodex, where blockchain gaming meets decentralized finance."
           </p>
-          <p className={styles.aboutText}><i className="las la-arrow-right"></i>ECHODEXChain Blockchain</p>
-          <p className={styles.aboutText}><i className="las la-arrow-right"></i>Multicurrency Wallet</p>
-          <p className={styles.aboutText}><i className="las la-arrow-right"></i>Defi Exchange</p>
+          <p className={styles.aboutText}><i className="las la-arrow-right"></i>Security and transparency: Robust security measures to protect user assets transparent tokenomics and governance processes </p>
+          <p className={styles.aboutText}><i className="las la-arrow-right"></i>Innovative ecosystem: Seamless integration of gamefi and defi unique play-to-earn models and rewards</p>
+          <p className={styles.aboutText}><i className="las la-arrow-right"></i>Community focus:  Vibrant community with regular updates, events, and contests opportunities for users to contribute and participate in governance</p>
         </div>
       </section>
       <section className={styles.futureSection}>

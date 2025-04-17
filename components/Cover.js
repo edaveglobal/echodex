@@ -805,14 +805,12 @@ const MyComponent = () => {
                 <div className={styles.textSection}>
 
                     <h2 className={styles.header}>ECHODEX ICO</h2>
-                    <h4 className={styles.tag}>
-                    EchoDex is a decentralized launchpad that allows users to launch 
-                    their token and create their initial token sale with staking benefits 
-                    to their holders and they don&apos;t require any Coding Knowledge For this. 
+                    <h4 className={styles.tag}>Echodex: revolutionizing gamefi and defi unlock a world of endless possibilities
+                    Echodex is pioneering a new era in gamefi and defi 
                     </h4>
 
                     <div className={styles.actionWrapper}>
-                        <Link href="#whitepaper"><a className={styles.actionBtn}>Whitepaper</a></Link>
+                        <Link href="https://echodex.network/whitepaper.pdf"><a className={styles.actionBtn}>Whitepaper</a></Link>
                         <a className={styles.actionBtn} onClick={focusPresale}>Buy Now</a>
                     </div>
                 </div>
