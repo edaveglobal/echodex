@@ -76,35 +76,7 @@ export default function Home() {
           <p className={styles.aboutText}><i className="las la-arrow-right"></i>Community focus:  Vibrant community with regular updates, events, and contests opportunities for users to contribute and participate in governance</p>
         </div>
       </section>
-      <section className={styles.futureSection}>
-        <h3>Future Products</h3>
-        <div className={styles.futureItemBlock}>
-          <ul className={styles.futureColumn}>
-            <li><i className="las la-star"></i>ECHODEXChain Blockchain</li>
-            <li><i className="las la-star"></i>Multicurrency Wallet</li>
-            <li><i className="las la-star"></i>Defi Exchange</li>
-            <li><i className="las la-star"></i>MultiVerse and MetaVerse</li>
-            <li><i className="las la-star"></i>Audit Platform for ECHODEXChain</li>
-            <li><i className="las la-star"></i>NFT Marketplace</li>
-          </ul>
-          <ul className={styles.futureColumn}>
-            <li><i className="las la-star"></i>P2P Exchange</li>
-            <li><i className="las la-star"></i>Decentralized Marketplace for Products</li>
-            <li><i className="las la-star"></i>Social Networking Platform with Short videos feature</li>
-            <li><i className="las la-star"></i>Online Education Platform</li>
-            <li><i className="las la-star"></i>Dating App</li>
-            <li><i className="las la-star"></i>Browser</li>
-          </ul>
-          <ul className={styles.futureColumn}>
-            <li><i className="las la-star"></i>Financial and Insurance Services Platform</li>
-            <li><i className="las la-star"></i>Travel, Hotel and Holiday Booking Platform</li>
-            <li><i className="las la-star"></i>Payment Wallet</li>
-            <li><i className="las la-star"></i>Taxi, Bike and Vehicle Hailing Platform</li>
-            <li><i className="las la-star"></i>Asset Based Platform for Real State and other assets</li>
-            <li><i className="las la-star"></i>Services Platform</li>
-          </ul>
-        </div>
-      </section>
+    
       <section className={styles.aboutSection}>
         <div className={styles.aboutTextSection}>
           <h3 className={styles.aboutHeader}>Vision and Mission</h3>
@@ -267,318 +239,61 @@ export default function Home() {
 
         <div className={styles.timeline}>
           <div className={[styles.container, styles.left].join(" ")}>
-            <div className={styles.date}>April-June 2022</div>
+            <div className={styles.date}>Phase 1: Development & Launch</div>
             <i className="icon ri-heart-line"></i>
             <div className={styles.content}>
               <p>
                 <ul>
-                  <li>Ideation of ECHODEX Blockhain and ECHODEX
+                  <li>Token creation and presale.
                   </li>
-                  <li>White paper, Future Goals and Road Map preparation.
+                  <li>Game prototypes using SolidWorks.
                   </li>
-                  <li>ICO Website Designing.
+                  <li>Staking and liquidity pool deployment.
                   </li>
                 </ul>
               </p>
             </div>
           </div>
           <div className={[styles.container, styles.right].join(" ")}>
-            <div className={styles.date}>July-Sept 2022</div>
+            <div className={styles.date}>Phase 2: Growth & Expansion</div>
             <i className="icon ri-heart-line"></i>
             <div className={styles.content}>
               <p>
                 <ul>
-                  <li>ICO website Development For ECHODEX
+                  <li>Launch GameFi visuals and P2E features.
                   </li>
-                  <li>Contract Deployment
+                  <li>Community-building campaigns.
                   </li>
-                  <li>ICO website Launch
-                  </li>
-                  <li>
-                    Pre-Sale of ECHODEX Stage-1
-                  </li>
-                  <li>
-                    Promotion through Partnerships and Affliates and Initial Buyers
-                  </li>
-                  <li>
-                    Building Team for Future Projects
-                  </li>
+                 
+              
                 </ul>
               </p>
             </div>
           </div>
           <div className={[styles.container, styles.left].join(" ")}>
-            <div className={styles.date}>Oct-Dec 2022</div>
+            <div className={styles.date}>Phase 3: Scalability</div>
             <i className="icon ri-heart-line"></i>
             <div className={styles.content}>
               <p>
                 <ul>
-                  <li>Start ECHODEX Chain Development
+                  <li>Launch an AI-powered Web2-to-Web3 interoperability builder.
                   </li>
-                  <li>Pre-Sale Stage 2
+                  <li>Upgrade ecosystem features based on community feedback.
                   </li>
-                  <li>InFluencer Promotion
-                  </li>
-                  <li>Start MultiCurrency crypto wallet development
-                  </li>
-                  <li>Pre-Sale Stage 3
-                  </li>
-                  <li>Pre-Sale Stage 4
-                  </li>
-                  <li>Team Expansion
-                  </li>
+  
                 </ul>
               </p>
             </div>
           </div>
-          <div className={[styles.container, styles.right].join(" ")}>
-            <div className={styles.date}>Jan-March 2023</div>
-            <i className="icon ri-heart-line"></i>
-            <div className={styles.content}>
-              <p>
-                <ul>
-                  <li>ECHODEX Launch to general Public
-                  </li>
-                  <li>dApp Wallet Launch
-                  </li>
-                  <li>Major Dex Listing
-                  </li>
-                  <li>
-                    Audit Solutions Platform Development
-                  </li>
-                  <li>
-                    Metaverse and Multiverse Platform Developmet Start
-                  </li>
-                  <li>
-                    Dex Platform Development Start
-                  </li>
-                </ul>
-              </p>
-            </div>
-          </div>
-          <div className={[styles.container, styles.left].join(" ")}>
-            <div className={styles.date}>April-June 2023</div>
-            <i className="icon ri-heart-line"></i>
-            <div className={styles.content}>
-              <p>
-                <ul>
-                  <li>Blockchain Release Beta testing
-                  </li>
-                  <li>Dex Platform Launch and Integration in dApp
-                  </li>
-                  <li>Rvenue Sharing Staking Programme
-                  </li>
-                  <li>NFT marketplace Development Start
-                  </li>
-                  <li>P2P Exchange Development Start
-                  </li>
-                  <li>Blockchain Main net Release
-                  </li>
-                  <li>Smart Contract Integration support with Blockchain
-                  </li>
-                </ul>
-              </p>
-            </div>
-          </div>
-          <div className={[styles.container, styles.right].join(" ")}>
-            <div className={styles.date}>July-Sept 2023</div>
-            <i className="icon ri-heart-line"></i>
-            <div className={styles.content}>
-              <p>
-                <ul>
-                  <li>ECHODEX Exchange Beta Version Release
-                  </li>
-                  <li>Exchange and Wallet and Mobile Version Development
-                  </li>
-                  <li>Exchange Release
-                  </li>
-                  <li>
-                    Tier 1 listings on Exchange
-                  </li>
-                  <li>
-                    Invite Projects on our Blockcahin and Invite selected projects
-                  </li>
-                  <li>
-                    Finance and Lending Platform Development Start
-                  </li>
-                  <li>Multverse Metaverse Alpha Version
-                  </li>
-                </ul>
-              </p>
-            </div>
-          </div>
-          <div className={[styles.container, styles.left].join(" ")}>
-            <div className={styles.date}>Oct-Dec 2023</div>
-            <i className="icon ri-heart-line"></i>
-            <div className={styles.content}>
-              <p>
-                <ul>
-                  <li>NFT Market Place Launch
-                  </li>
-                  <li>P2P Exchange launch
-                  </li>
-                  <li>DeFi platform launch
-                  </li>
-                  <li>Start Development of - Decentralised Market Place , Social App, Education App , Browser , Dating App
-                  </li>
-                  <li>Launch of Mobile version of Wallent and Exchange
-                  </li>
-                </ul>
-              </p>
-            </div>
-          </div>
-          <div className={[styles.container, styles.right].join(" ")}>
-            <div className={styles.date}>Jan-March 2024</div>
-            <i className="icon ri-heart-line"></i>
-            <div className={styles.content}>
-              <p>
-                <ul>
-                  <li>Startup Studio and Launchapad Development
-                  </li>
-                  <li>New Partnerships
-                  </li>
-                  <li>Finance , Insurance and Lending Platform Launch
-                  </li>
-                  <li>
-                    Dervatives Platcorm Launch
-                  </li>
-                  <li>
-                    Payment wallet first version Launch
-                  </li>
-                </ul>
-              </p>
-            </div>
-          </div>
-          <div className={[styles.container, styles.left].join(" ")}>
-            <div className={styles.date}>April-June 2024</div>
-            <i className="icon ri-heart-line"></i>
-            <div className={styles.content}>
-              <p>
-                <ul>
-                  <li>Social Networking and Short Video app Launch
-                  </li>
-                  <li>Education App launch
-                  </li>
-                  <li>Browser Launch
-                  </li>
-                  <li>Dating app Launch
-                  </li>
-                  <li>Travel booking Platform and app Launch
-                  </li>
-                  <li>Education App launch
-                  </li>
-                  <li>Dervatives Platform first version test
-                  </li>
-                  <li>Decentralised Market place Launch
-                  </li>
-                  <li>Payment App Launch
-                  </li>
-                </ul>
-              </p>
-            </div>
-          </div>
-          <div className={[styles.container, styles.right].join(" ")}>
-            <div className={styles.date}>July-Sept 2024</div>
-            <i className="icon ri-heart-line"></i>
-            <div className={styles.content}>
-              <p>
-                <ul>
-                  <li>Online and Offline Services Platform Development start
-                  </li>
-                  <li>Taxi, Bike and Vehicle Hailing renting Platform Development start
-                  </li>
-                  <li>Asset Based Platform Development Start
-                  </li>
-                  <li>Game Platform development Start
-                  </li>
-                  <li>Matrimonial Platform Development Start
-                  </li>
-                  <li>Multiverse Metaverse and App Launch with NFT Integration
-                  </li>
-                </ul>
-              </p>
-            </div>
-          </div>
-          <div className={[styles.container, styles.left].join(" ")}>
-            <div className={styles.date}>Oct-Dec 2024</div>
-            <i className="icon ri-heart-line"></i>
-            <div className={styles.content}>
-              <p>
-                <ul>
-                  <li>Start Development of Job Portal and app
-                  </li>
-                  <li>Start development of Real estate buy- sale and rental app
-                  </li>
-                  <li>Start R&amps;D in areas like Artificial intelligence, Machine Learning and Robotics
-                  </li>
-                  <li>
-                    Start R&amps;D in area of Hardware , computers , mobiles and and automobile Industry .
-                  </li>
-                </ul>
-              </p>
-            </div>
-          </div>
-          <div className={[styles.container, styles.right].join(" ")}>
-            <div className={styles.date}>Jan-March 2025</div>
-            <i className="icon ri-heart-line"></i>
-            <div className={styles.content}>
-              <p>
-                <ul>
-                  <li>Derivatives Platform and app launch
-                  </li>
-                  <li>Services Platform and App Launch
-                  </li>
-                  <li>Multiverse Metaverse New Services Launch
-                  </li>
-                  <li>Taxi Hailing app and Platform launch
-                  </li>
-                  <li>Game Platform first version Launch
-                  </li>
-                  <li>Asset based platform First version launch
-                  </li>
-                </ul>
-              </p>
-            </div>
-          </div>
-          <div className={[styles.container, styles.left].join(" ")}>
-            <div className={styles.date}>April-June 2025</div>
-            <i className="icon ri-heart-line"></i>
-            <div className={styles.content}>
-              <p>
-                <ul>
-                  <li>Matrimonial Website and app Launch
-                  </li>
-                  <li>Asset based Platform public version Launch
-                  </li>
-                  <li>Game platform final version launch
-                  </li>
-                  <li>
-                    JobPortal and app launch
-                  </li>
-                  <li>
-                    Real Estate app and website launch
-                  </li>
-
-                </ul>
-              </p>
-            </div>
-          </div>
-          <div className={[styles.container, styles.right].join(" ")}>
-            <div className={styles.date}>July-Sept 2025</div>
-            <i className="icon ri-heart-line"></i>
-            <div className={styles.content}>
-              <p>
-                <ul>
-                  <li>Start Decentalied crowdfunding platform Development
-                  </li>
-                  <li>Start Decentralised Charity Platform Development
-                  </li>
-                  <li>Go be Continued -----------------
-                  </li>
-                </ul>
-              </p>
-            </div>
-          </div>
+       
+         
+  
+       
+      
+          
+     
+        
+       
         </div>
       </section>
       {/* roadmap-section-------- */}
@@ -628,14 +343,7 @@ export default function Home() {
       <section className={styles.teamSection} id="team">
         <h3 className={styles.teamHeader}>Team</h3>
         <div className={styles.teamBlock}>
-          <div className={styles.teamCard}>
-            <img src="/leo.jpeg" alt="team-member" />
-            <h4 className={styles.teamName}>Abhi M </h4>
-            <p className={styles.teamDes}>CEO </p>
-            <p>
-              Entrepreneur with zeal and passion for blockchain and solutions it can bring for the brave new world
-            </p>
-          </div>
+         
           <div className={styles.teamCard}>
             <img src="/rabbit.jpeg" alt="team-member" />
             <h4 className={styles.teamName}>N Tri </h4>
@@ -661,7 +369,7 @@ export default function Home() {
           <div className={styles.whitepaperTextSection}>
             <h2 className={styles.whitepaperHead}>Whitepaper</h2>
             <p className={styles.whitepaperText}>
-              Total of 1 quadrillion (1,000,000,000,000,000) ECHODEXs will be minted through
+              Total of 10 Million (10,000,000) ECHODEXs will be minted through
               Smart contract and deployed through Binance Smart Chain . We will be selling 20% of the
               tokens in presale which will be done in 4 phases which will run max for 92 days . 1st
               presale for 45 days and rest 3 pre-sales for 15 days each. If the Pre-Sale phases goals
@@ -674,8 +382,8 @@ export default function Home() {
             </p>
           </div>
           <div className={styles.whitepaperActionSection}>
-            <Link href="#"><a target="_blank" rel="noreferrer">Read Online</a></Link>
-            <Link href="#"><a target="_blank" rel="noreferrer" download>Download</a></Link>
+            <Link href="https://echodex.network/whitepaper.pdf"><a target="_blank" rel="noreferrer">Read Online</a></Link>
+            <Link href="https://echodex.network/whitepaper.pdf"><a target="_blank" rel="noreferrer" download>Download</a></Link>
           </div>
         </div>
       </section>
@@ -686,11 +394,10 @@ export default function Home() {
         <div className={styles.contactSocialSide}>
           <h3 className={styles.contactHeader}>Contact Us</h3>
           <div className={styles.contactSocialBlock}>
-            <Link href="mailto:support@echodexproject.com"><a target="_blank" rel="noreferrer"><i className="las la-envelope"></i>support@echodexproject.com</a></Link>
+            <Link href="mailto:support@echodex.network"><a target="_blank" rel="noreferrer"><i className="las la-envelope"></i>support@echodex.network</a></Link>
             <Link href="https://t.me/ECHODEX"><a target="_blank" rel="noreferrer"><i className="lab la-telegram"></i>Telegram</a></Link>
             <Link href="https://twitter.com/ECHODEXofficial"><a target="_blank" rel="noreferrer"><i className="lab la-twitter-square"></i>Twitter</a></Link>
-            <Link href="#"><a target="_blank" rel="noreferrer"><i className="lab la-instagram"></i>Instagram</a></Link>
-            <Link href="#"><a target="_blank" rel="noreferrer"><i className="lab la-youtube"></i>YouTube</a></Link>
+        
           </div>
         </div>
         <div className={styles.contactFormSide}>
