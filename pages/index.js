@@ -32,7 +32,7 @@ export default function Home() {
             <p className={styles.featureIcon}><i className="las la-cube"></i></p>
             <h4 className={styles.featureHead}>GameFi Solution</h4>
             <p className={styles.featureText}>
-             Play--To-Earn (P2E) models for user engagement and rewards
+             Play-To-Earn (P2E) models for user engagement and rewards
             </p>
           </div>
           <div className={styles.featureCard}>
@@ -95,7 +95,7 @@ export default function Home() {
           </p>
         </div>
         <div className={styles.aboutImageSection}>
-          <img src="/palmer.jpeg" alt="image" />
+          <img src="/vision-illustration.svg" alt="image" />
         </div>
       </section>
       {/* about-section------ */}
@@ -306,7 +306,7 @@ Staking to secure the network and earn liquidity rewards, Airdrop, and referral 
           </div>
         </div>
         <div className={styles.whyImageSection}>
-          <img src="/echometa.jpg" alt="ECHODEX" />
+          <img src="/palmer.jpeg" alt="ECHODEX" />
         </div>
       </section>
       {/* why-section-- */}
@@ -366,7 +366,7 @@ Staking to secure the network and earn liquidity rewards, Airdrop, and referral 
           <h3 className={styles.contactHeader}>Contact Us</h3>
           <div className={styles.contactSocialBlock}>
             <Link href="mailto:support@echodex.network"><a target="_blank" rel="noreferrer"><i className="las la-envelope"></i>support@echodex.network</a></Link>
-            <Link href="https://t.me/ECHODEX"><a target="_blank" rel="noreferrer"><i className="lab la-telegram"></i>Telegram</a></Link>
+            <Link href="https://t.me/ECHODEX_CHANNEL"><a target="_blank" rel="noreferrer"><i className="lab la-telegram"></i>Telegram Channel</a></Link>
             <Link href="https://t.me/echodexproject"><a target="_blank" rel="noreferrer"><i className="lab la-telegram"></i>Telegram Group</a></Link>
             <Link href="https://x.com/EchoDex_Project?t=It3yesFILAcH6DglCUdlFw&s=09"><a target="_blank" rel="noreferrer"><i className="lab la-twitter-square"></i>Twitter</a></Link>
             <Link href="#"><a target="_blank" rel="noreferrer"><i className="lab la-location"></i>Office Location:
