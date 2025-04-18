@@ -32,7 +32,7 @@ export default function Home() {
             <p className={styles.featureIcon}><i className="las la-cube"></i></p>
             <h4 className={styles.featureHead}>GameFi Solution</h4>
             <p className={styles.featureText}>
-             Play--to-earn (p2e) models for user engagement and rewards
+             Play--To-Earn (P2E) models for user engagement and rewards
             </p>
           </div>
           <div className={styles.featureCard}>
@@ -64,13 +64,14 @@ export default function Home() {
       {/* about-section------ */}
       <section className={styles.aboutSection} id="about">
         <div className={styles.aboutImageSection}>
-          <img src="/about.gif" alt="image" />
+         
+          <video src="/vid.mp4"  />
         </div>
         <div className={styles.aboutTextSection}>
           <h3 className={styles.aboutHeader}>Join the echodex community today and experience the future of gamefi and defi!</h3>
-          <p className={styles.aboutText}>
+          {/* <p className={styles.aboutText}>
           "unlock a new world of possibilities with echodex, where blockchain gaming meets decentralized finance."
-          </p>
+          </p> */}
           <p className={styles.aboutText}><i className="las la-arrow-right"></i>Security and transparency: Robust security measures to protect user assets transparent tokenomics and governance processes </p>
           <p className={styles.aboutText}><i className="las la-arrow-right"></i>Innovative ecosystem: Seamless integration of gamefi and defi unique play-to-earn models and rewards</p>
           <p className={styles.aboutText}><i className="las la-arrow-right"></i>Community focus:  Vibrant community with regular updates, events, and contests opportunities for users to contribute and participate in governance</p>
@@ -84,17 +85,17 @@ export default function Home() {
           </p>
           <p className={styles.aboutText}><i className="las la-lock"></i>
             <h2>Vision</h2>
-            To be at the forefront of new era of technology and innovations which serves next generation of human life , so they can live with more freedom and less fear.</p>
+            To democratize access to decentralized finance by creating a user-friendly, secure and transparent ecosystem for gaming and decentralized exchange</p>
           <p className={styles.aboutText}><i className="las la-lock"></i>
             <h2>Mission</h2>
-            Is to give best products and services to users by exploring all possible frontiers in new technology and innovations, and also being socially responsible to our planet and our societies.</p>
+            Echodex symbolizes the voice & feedback of a community driven decentralized exchange. Our Mission is to create a platform that resonates with users and responds dynamically to market needs.</p>
           <p className={styles.aboutText}><i className="las la-lock"></i>
             <h2>Solution</h2>
-            We have planned a ecosystem of new solutions which will help users to save their assets as well as trade and use them for different services in the coming years. Also we will keep on researching on how we can reinvent the wheel in a way that blockchain can be used in most of the areas of day to day life and how it can be used for betterment of humankind and users of the technology.
+            Echodex is built on cutting-edge blockchain technology to enable fair trading, reduce fees and empower a community-driven governance model.
           </p>
         </div>
         <div className={styles.aboutImageSection}>
-          <img src="/vision-illustration.svg" alt="image" />
+          <img src="/palmer.jpeg" alt="image" />
         </div>
       </section>
       {/* about-section------ */}
@@ -105,37 +106,38 @@ export default function Home() {
           <div className={styles.railCard}>
             <i className="las la-caret-left"></i>
             <div>
-              <h3 className={styles.railHead}>HIGH SPEED AND LOW COSTS</h3>
+              <h3 className={styles.railHead}>Incentivized Community</h3>
               <p className={styles.railText}>
-                Immediate funding without third-parties. Smart contracts autonomously
-                perform funding - collect and release payments
+              Accessing premium features and advanced trading tools.
+This multi-utility approach incentivizes active participation and creates a self-sustaining ecosystem.
+Staking to secure the network and earn liquidity rewards, Airdrop, and referral campaign system
+            </p>
+            </div>
+          </div>
+          <div className={styles.railCard}>
+            <i className="las la-caret-left"></i>
+            <div>
+              <h3 className={styles.railHead}>Our Native Defi Swap & Gamefi Interface</h3>
+              <p className={styles.railText}>
+              A full-scale mainnet launch. Rolling out advanced features such as algorithmic trading and integrated DeFi solutions.
               </p>
             </div>
           </div>
           <div className={styles.railCard}>
             <i className="las la-caret-left"></i>
             <div>
-              <h3 className={styles.railHead}>FAIR DEALS ONLY</h3>
+              <h3 className={styles.railHead}> Innovate Across Sectors  </h3>
               <p className={styles.railText}>
-                Open-source smart contract ensures fair and transparent deals between merchants and affiliates
+              Integration of advanced blockchain technology interoperable across various block chain network with engaging gaming mechanics to redefine financial and interactive digital experiences.
               </p>
             </div>
           </div>
           <div className={styles.railCard}>
             <i className="las la-caret-left"></i>
             <div>
-              <h3 className={styles.railHead}>PROTECTION FROM HACKING</h3>
+              <h3 className={styles.railHead}> Empower the Community</h3>
               <p className={styles.railText}>
-                On a decentralized platform, all user accounts are independent; if one account is hacked, this won&apos;t breach the security of.
-              </p>
-            </div>
-          </div>
-          <div className={styles.railCard}>
-            <i className="las la-caret-left"></i>
-            <div>
-              <h3 className={styles.railHead}>COST EFFECTIVE</h3>
-              <p className={styles.railText}>
-                Scale economy through decentralization leading to significant decrease in transaction fees
+              Utilizing Features and transparent governance, fair token distribution, and robust incentive programs to build a truly decentralized platform.
               </p>
             </div>
           </div>
@@ -144,36 +146,9 @@ export default function Home() {
           <div className={styles.railCard}>
             <i className="las la-caret-left"></i>
             <div>
-              <h3 className={styles.railHead}>NO MORE MIDDLE MEN</h3>
+              <h3 className={styles.railHead}>Driving Sustainable Growth</h3>
               <p className={styles.railText}>
-                Transactions are verified by distributed nodes, and anyone can join or leave the network as they please without disrupting the network&apos;s ability to form consensus on transactions.
-              </p>
-            </div>
-          </div>
-          <div className={styles.railCard}>
-            <i className="las la-caret-left"></i>
-            <div>
-              <h3 className={styles.railHead}>EASY ENTRY AND FAIR COMPETITION</h3>
-              <p className={styles.railText}>
-                Any one can join, and Fair for everyone without any partiality
-              </p>
-            </div>
-          </div>
-          <div className={styles.railCard}>
-            <i className="las la-caret-left"></i>
-            <div>
-              <h3 className={styles.railHead}>GLOBAL P2P TRADE FINANCING</h3>
-              <p className={styles.railText}>
-                The peer-to-peer architecture of blockchain allows all cryptocurrencies to be transferred worldwide, without the need of any middle-man or intermediaries or central server
-              </p>
-            </div>
-          </div>
-          <div className={styles.railCard}>
-            <i className="las la-caret-left"></i>
-            <div>
-              <h3 className={styles.railHead}>REAL-TIME DATABASE</h3>
-              <p className={styles.railText}>
-                Every Transaction and Updates are real time and directly pulled from Smart Contracts lying on Blockchain
+              Implement technical safeguards, such as anti-whale measures and auto-liquidity features, to ensure long-term value and stability.
               </p>
             </div>
           </div>
@@ -304,11 +279,7 @@ export default function Home() {
         <div className={styles.whyTextSection}>
           <h2 className={styles.whyHeader}>Why choose us?</h2>
           <p className={styles.whyAnswer}>
-            As we all know that any company thrives on its Mission and Vision and
-            can only become successful when it gets support of the people who believe
-            in their Mission and Vision. We have put forward our Vision of future in
-            front of you and we are very passionate to make a difference for current
-            and future generation of humanity.
+          Echodex is pioneering a new era in gamefi and defi
           </p>
           <div className={styles.whyAnswerPoint}>
             <h3>Authentic Brand</h3>
@@ -335,7 +306,7 @@ export default function Home() {
           </div>
         </div>
         <div className={styles.whyImageSection}>
-          <img src="/ECHODEX-k.png" alt="ECHODEX icon" />
+          <img src="/echometa.jpg" alt="ECHODEX" />
         </div>
       </section>
       {/* why-section-- */}
@@ -396,7 +367,10 @@ export default function Home() {
           <div className={styles.contactSocialBlock}>
             <Link href="mailto:support@echodex.network"><a target="_blank" rel="noreferrer"><i className="las la-envelope"></i>support@echodex.network</a></Link>
             <Link href="https://t.me/ECHODEX"><a target="_blank" rel="noreferrer"><i className="lab la-telegram"></i>Telegram</a></Link>
-            <Link href="https://twitter.com/ECHODEXofficial"><a target="_blank" rel="noreferrer"><i className="lab la-twitter-square"></i>Twitter</a></Link>
+            <Link href="https://t.me/echodexproject"><a target="_blank" rel="noreferrer"><i className="lab la-telegram"></i>Telegram Group</a></Link>
+            <Link href="https://x.com/EchoDex_Project?t=It3yesFILAcH6DglCUdlFw&s=09"><a target="_blank" rel="noreferrer"><i className="lab la-twitter-square"></i>Twitter</a></Link>
+            <Link href="#"><a target="_blank" rel="noreferrer"><i className="lab la-location"></i>Office Location:
+            Schuepisstrasse 5,hosenruck, switzerland</a></Link>
         
           </div>
         </div>
