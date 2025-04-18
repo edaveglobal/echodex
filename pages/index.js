@@ -192,7 +192,7 @@ Staking to secure the network and earn liquidity rewards, Airdrop, and referral 
             <p className={styles.tokenDetailText}>	1 BNB = 325 EDEX</p>
           </div>
         </div>
-        <p><small><i>*All above Data is only for Sample</i></small></p>
+        <p><small><i>*The Data Above*</i></small></p>
       </section>
       {/* tokenomics-section-- */}
 
